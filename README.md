@@ -46,8 +46,8 @@ A robust, clean, and user-friendly Domoticz Python plugin designed to retrieve P
 Author & Version
 
     Author: Harry Berg
-
     Version: 1.0.0
+    P1 Wifi unit at: https://smartgateways.nl/en/ 
 
 License
 
